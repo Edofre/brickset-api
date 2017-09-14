@@ -1,0 +1,45 @@
+75168 	 29,99 	 Yoda's Jedi Starfighter 
+75173 	 29,99 	 Luke's Landspeeder 
+75183 	 29,99 	 Darth Vader Transformation  
+75133 	 16,99 	 Rebel Alliance Battle Pack 
+75101 	 69,99 	 First Order Special Forces TIE Fighter 
+75150 	 99,99 	 Vader's TIE Advanced vs, A-wing Starfighter 
+75024 	 49,99 	 HH-87 Starhopper 
+75000 	 16,99 	 Clone Troopers vs, Droidekas 
+9489 	 16,99 	 Endor Rebel Trooper & Imperial Trooper Battle Pack 
+75035 	 11,89 	 Kashyyyk Troopers 
+75011 	 12,99 	 Tantive IV & Planet Alderaan 
+75034 	 11,89 	 Death Star Troopers 
+9488 	 16,99 	 Elite Clone Trooper & Commando Droid Battle Pack 
+9679 	 9,99 	 AT-ST & Endor 
+7959 	 39,99 	 Geonosian Starfighter 
+75040 	 29,99 	 General Grievous' Wheel Bike 
+9498 	 39,99 	 Saesee Tiin's Jedi Starfighter 
+9496 	 29,99 	 Desert Skiff 
+9490 	 26,99 	 Droid Escape 
+75002 	 26,99 	 AT-RT 
+75022 	 29,99 	 Mandalorian Speeder 
+75001 	 16,99 	 Republic Troopers vs, Sith Troopers 
+75099 	 26,99 	 Rey's Speeder 
+75038 	 29,99 	 Jedi Interceptor 
+9494 	 39,99 	 Anakin's Jedi Interceptor 
+75049 	 39,99 	 Snowspeeder 
+9497 	 49,99 	 Republic Striker-class Starfighter 
+8096 	 69,99 	 Emperor Palpatine's Shuttle 
+75054 	 119,99 	 AT-AT 
+9495 	 49,99 	 Gold Leader's Y-wing Starfighter 
+9493 	 69,99 	 X-wing Starfighter 
+75021 	 129,99 	 Republic Gunship 
+75025 	 99,99 	 Jedi Defender-class Cruiser 
+75019 	 99,99 	 AT-TE  
+75020 	 119,99 	 Jabba's Sail Barge 
+75018 	 69,99 	 JEK-14's Stealth Starfighter 
+7965 	 149,99 	 Millennium Falcon 
+9500 	 99,99 	 Sith Fury-class Interceptor 
+7961 	 69,99 	 Darth Maul's Sith Infiltrator 
+9515 	 119,99 	 Malevolence 
+9516 	 139,99 	 Jabba's Palace 
+75060 	 199,99 	 Slave I 
+75102 	 89,99 	 Poe's X-wing Fighter 
+75104 	 119,99 	 Kylo Ren's Command Shuttle 
+75059 	 299,99 	 Sandcrawler 
